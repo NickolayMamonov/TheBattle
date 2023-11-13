@@ -1,0 +1,15 @@
+C:\Users\Whysoezzy\RiderProjects\TheBattle\TheBattle\bin\Debug\net6.0\TheBattle.exe
+C:\Users\Whysoezzy\RiderProjects\TheBattle\TheBattle\bin\Debug\net6.0\TheBattle.deps.json
+C:\Users\Whysoezzy\RiderProjects\TheBattle\TheBattle\bin\Debug\net6.0\TheBattle.runtimeconfig.json
+C:\Users\Whysoezzy\RiderProjects\TheBattle\TheBattle\bin\Debug\net6.0\TheBattle.dll
+C:\Users\Whysoezzy\RiderProjects\TheBattle\TheBattle\bin\Debug\net6.0\TheBattle.pdb
+C:\Users\Whysoezzy\RiderProjects\TheBattle\TheBattle\obj\Debug\net6.0\TheBattle.csproj.AssemblyReference.cache
+C:\Users\Whysoezzy\RiderProjects\TheBattle\TheBattle\obj\Debug\net6.0\TheBattle.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Whysoezzy\RiderProjects\TheBattle\TheBattle\obj\Debug\net6.0\TheBattle.AssemblyInfoInputs.cache
+C:\Users\Whysoezzy\RiderProjects\TheBattle\TheBattle\obj\Debug\net6.0\TheBattle.AssemblyInfo.cs
+C:\Users\Whysoezzy\RiderProjects\TheBattle\TheBattle\obj\Debug\net6.0\TheBattle.csproj.CoreCompileInputs.cache
+C:\Users\Whysoezzy\RiderProjects\TheBattle\TheBattle\obj\Debug\net6.0\TheBattle.dll
+C:\Users\Whysoezzy\RiderProjects\TheBattle\TheBattle\obj\Debug\net6.0\refint\TheBattle.dll
+C:\Users\Whysoezzy\RiderProjects\TheBattle\TheBattle\obj\Debug\net6.0\TheBattle.pdb
+C:\Users\Whysoezzy\RiderProjects\TheBattle\TheBattle\obj\Debug\net6.0\TheBattle.genruntimeconfig.cache
+C:\Users\Whysoezzy\RiderProjects\TheBattle\TheBattle\obj\Debug\net6.0\ref\TheBattle.dll
